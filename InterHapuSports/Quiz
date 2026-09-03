@@ -1,0 +1,42 @@
+#Score value
+score = 0
+
+#Question 1
+print("Q.1 What is the capital of New Zealand?")
+#Asnwer
+answer = input("Enter your answer")
+
+if answer == Wellington
+    print("Yay, you got it correct")
+else:
+    print("Oh no! Try again")
+
+#Question 2
+print("Q.2 What is the biggest city in New Zealand?")
+#Answer
+answer = input("Enter your answer")
+
+if answer == "Auckland";
+    print("Yay, you got it correct")
+else:
+    print("Oh no! Try again")
+
+#Question 3
+print("Q.3 What is the best medical school in New Zealand?")
+#Answer
+answer = input("Enter your answer")
+
+if answer == "Auckland med school";
+    print("Yay, you got it correct")
+else:
+    print("Oh no! Try again")
+
+#Question 4
+print("What is the continent New Zealand is in?")
+#Answer
+answer = input("Enter your answer")
+
+if answer == "Oceania";
+    print("Yay, you got it correct")
+else:
+    print("Oh no! Try again")
