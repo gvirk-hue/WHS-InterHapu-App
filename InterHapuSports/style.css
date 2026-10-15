@@ -1,0 +1,25 @@
+h2, h1 {
+	font-family: Georgia, serif;
+}
+/* image layout */
+
+.images {
+	display: flex;
+	justify-content: centre;
+	gap: 20px;
+}
+
+.image-box {
+	text-align: centre;
+}
+
+/* Inline elements */
+
+.inline-elements {
+	display: inline-block;
+	vertical-aling: middle;
+}
+body {
+	font-family: Arial, sans-serif;
+}
+	
